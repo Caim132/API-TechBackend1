@@ -1,6 +1,7 @@
 # Roteiro do audio
 Apresentação
 "Olá, vou tentar explicar o funcionamento de uma API desenvolvida com Spring Boot."
+
 Introdução ao POM:
 "Este é o arquivo pom.xml, utilizado pelo Maven para gerenciar as dependências e o ciclo de vida do projeto."
 Cabeçalho e Metadata:
